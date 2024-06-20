@@ -3,10 +3,10 @@ title: "Contact Us"
 draft: false
 info: 
   title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  description: Not sure what to write here
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "phone: (business phone number) "
+    - "Mail: [info@vigour-rehab.com](mailto:info@vigour-rehab.com)"
+    - "Address: (business home address)"
 ---
 
