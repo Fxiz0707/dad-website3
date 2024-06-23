@@ -27,9 +27,9 @@ services:
   - title: "Don't let it worsen"
     content: "People with back pain are often trapped in a cycle of discomfort, restricted movement, and anxiety about their condition."
     images:
-      - "/images/backpain1.jpg"
-      - "/images/backpain2.jpg"
-      - "/images/backpain3.jpg"
+      - "dad-website3/images/backpain1.jpg"
+      - "dad-website3/images/backpain2.jpg"
+      - "dad-website3/images/backpain3.jpg"
     button:
       enable: true
       label: Talk to a professional
