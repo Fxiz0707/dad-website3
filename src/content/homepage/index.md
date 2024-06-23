@@ -13,13 +13,13 @@ feature:
   title: Something You Need To Know
   features:
   - name: "Personalised"
-    icon: "/images/heart.svg"
+    icon: "dad-website3/images/heart.svg"
     content: "We understand each patient's journey is unique."
   - name: "Diverse Skillsets"
-    icon: "/images/skills.svg"
+    icon: "dad-website3/images/skills.svg"
     content: "Specialised treatments for various conditions including back, neck, shoulder, and hip pain, as well as post-surgical rehabilitation and sports injuries."
   - name: "Reshape your future"
-    icon: "/images/graph.svg"
+    icon: "dad-website3/images/graph.svg"
     content: "Let us help you move past pain and towards a healthier, more active live."
 
 # services
