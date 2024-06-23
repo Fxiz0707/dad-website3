@@ -13,13 +13,13 @@ feature:
   title: Something You Need To Know
   features:
   - name: "Personalised"
-    icon: "dad-website3/images/heart.svg"
+    icon: "/images/heart.svg"
     content: "We understand each patient's journey is unique."
   - name: "Diverse Skillsets"
-    icon: "dad-website3/images/skills.svg"
+    icon: "/images/skills.svg"
     content: "Specialised treatments for various conditions including back, neck, shoulder, and hip pain, as well as post-surgical rehabilitation and sports injuries."
   - name: "Reshape your future"
-    icon: "dad-website3/images/graph.svg"
+    icon: "/images/graph.svg"
     content: "Let us help you move past pain and towards a healthier, more active live."
 
 # services
@@ -27,9 +27,9 @@ services:
   - title: "Don't let it worsen"
     content: "People with back pain are often trapped in a cycle of discomfort, restricted movement, and anxiety about their condition."
     images:
-      - "dad-website3/images/backpain1.jpg"
-      - "dad-website3/images/backpain2.jpg"
-      - "dad-website3/images/backpain3.jpg"
+      - "/images/backpain1.jpg"
+      - "/images/backpain2.jpg"
+      - "/images/backpain3.jpg"
     button:
       enable: true
       label: Talk to a professional
