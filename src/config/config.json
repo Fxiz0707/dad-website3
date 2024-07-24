@@ -2,7 +2,7 @@
   "site": {
     "title": "Bigspring Light Astro",
     "base_url": "https://fxiz0707.github.io",
-    "base_path": "/",
+    "base_path": "/dad-website3",
     "trailing_slash": false,
     "favicon": "/images/square.svg",
     "logo": "/images/logo-no-background.png",
