@@ -2,7 +2,7 @@
 banner:
   title: Book an initial assessment with a physiotherapist
   content: Our physiotherapy clinic specialises in reducing pain, expediting injury recovery, enhancing mobility and preventing injuries through tailored rehabilitation programs.
-  image: "/images/first-image.jpg"
+  image: "dad-website3/images/first-image.jpg"
   button:
     label: "Contact Us"
     link: "/contact"
