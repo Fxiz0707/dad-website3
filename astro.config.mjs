@@ -13,7 +13,6 @@ export default defineConfig({
   site: config.site.base_url ? config.site.base_url : "https://fxiz0707.github.io",
   base: config.site.base_path ? config.site.base_path : "/dad-website3",
   trailingSlash: config.site.trailing_slash ? "always" : "never",
-  publicDir : './dad-website3/public',
   image: {
     service: squooshImageService(),
   },
