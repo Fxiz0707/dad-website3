@@ -2,7 +2,7 @@
   "main": [
     {
       "name": "Home",
-      "url": "/dad-website3"
+      "url": "/"
     },
     {
       "name": "Contact",
@@ -10,7 +10,7 @@
     },
     {
       "name": "FAQ",
-      "url": "/dad-website3/faq"
+      "url": "/faq"
     }
   ],
   "footer": []
