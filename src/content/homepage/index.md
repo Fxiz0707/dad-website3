@@ -5,7 +5,7 @@ banner:
   image: "/dad-website3/images/first-image.jpg"
   button:
     label: "Contact Us"
-    link: "/contact"
+    link: "/dad-website3/contact"
     enable: true
 
 # feature
@@ -33,7 +33,7 @@ services:
     button:
       enable: true
       label: Talk to a professional
-      link: /contact
+      link: /dad-website3/contact
 
   - title: "Personal treatments offered"
     content: "Physiotherapy can include various treatment types, including manual therapy, shockwave therapy, soft tissue techniques, and dry needling, which are utilised based on individual needs. These techniques, combined with a holistic approach, empower clients to actively participate in their recovery and present future injuries, resulting in optimal outcomes."
@@ -42,7 +42,7 @@ services:
     button:
       enable: true
       label: See which treatment is right for you
-      link: /contact
+      link: /dad-website3/contact
   
   - title: "We are hear to help"
     content: "Our team of experienced physiotherapists are experts in evaluating your body's functionality and limitations. We understand that pain and limitations can significantly impact your daily life. Our skilled physios ascertain whether the root cause lies within the musculoskeletal system; if not, rest assured that we will make the appropriate referrals to ensure you receive the care you deserve."
@@ -51,7 +51,7 @@ services:
     button:
       enable: true
       label: Check it out
-      link: /contact
+      link: /dad-website3/contact
 
 # call_to_action
 call_to_action:
@@ -61,5 +61,5 @@ call_to_action:
   button:
     enable: true
     label: "Contact Us"
-    link: "/contact"
+    link: "/dad-website3/contact"
 ---Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
